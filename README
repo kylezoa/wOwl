@@ -6,3 +6,10 @@ INTRODUCTION
 weatherOwl, wOwl (WOWel), is a python-based application where weather data can
 be saved from sources, saved, aggregated, displayed, and formatted into
 beautiful things.
+
+COPYRIGHT
+=========
+
+Copyright (c) 2010 Kyle Cheung <kyle@kylezoa.com>
+
+Licensed under the MIT/X11 license: http://www.opensource.org/licenses/mit-license.php
